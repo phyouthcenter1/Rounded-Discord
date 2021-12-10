@@ -18,20 +18,20 @@
 	--accent-rgb: 29,185,84;
 	--accent-text-color: #fff; /*	-	*/
 
-	--chat-color: #121212;
-	--chat-box-color: #272727;
-	--sidebar-color: #000;
-	--sidebar-panel: #090909; /*	-	*/
+	--chat-color: #272727;
+	--chat-box-color: #ffffff;
+	--sidebar-color: #272727;
+	--sidebar-panel: #272727; /*	-	*/
 
-	--title-bar: #212121;
-	--sticky-header: #181818;
-	--sticky-header-border: #303030; /*	-	*/
+	--title-bar: #272727;
+	--sticky-header: #272727;
+	--sticky-header-border: #272727; /*	-	*/
 
-	--bar-color: #181818;
-	--bar-border-color: #282828;
+	--bar-color: #272727;
+	--bar-border-color: #272727;
 	--bar-size: 90px; /*	-	*/
 
-	--popout-color: #282828;
+	--popout-color: #272727;
 	--popout-radius: 7px;
 	--popout-radius-small: 3px; /*	-	*/
 
