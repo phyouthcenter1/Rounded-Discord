@@ -1,1 +1,1 @@
-Remix of CapnKitten's "Spotify Discord"
+Remix of CapnKitten's ("Spotify Discord")[https://github.com/CapnKitten/Spotify-Discord]
